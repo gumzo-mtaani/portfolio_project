@@ -1,3 +1,5 @@
+#include<SDL2/SDL.h>
+
 // Place the structure definitions in this file
 
 typedef struct
